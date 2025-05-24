@@ -66,7 +66,7 @@ Read this article to understand the project structure and concepts used:
 ## Installation Instructions
 ```bash
 # clone the backend project wimm-node-app used for this App
-git clone https://github.com/fifocode/wimm-node-app.git --recursive
+git clone https://github.com/fifocode/wimm-apis.git --recursive
 
 # goto the wimm-node-app and run
 npm install
