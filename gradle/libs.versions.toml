@@ -1,5 +1,5 @@
 [versions]
-application = "8.3.2"
+application = "8.10.0"
 kotlin = "1.9.22"
 hilt = "2.50"
 ksp = "1.9.22-1.0.17"
