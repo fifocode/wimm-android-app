@@ -55,7 +55,7 @@ Using this app can bring a little bit of happiness and energy to live an inspire
 
 ## Detailed Article on this project 
 Read this article to understand the project structure and concepts used:
-[Android MVVM Architecture for A Production Ready App](https://medium.com/@janishar.ali/android-mvvm-architecture-for-a-production-ready-app-2892b6dca02f)
+[Android MVVM Architecture for A Production Ready App](https://fifocode.com/article/android-mvvm-architecture-for-a-production-ready-app)
 
 ## Architecture
 ![Architecture](docs/assets/arch-comp.svg)
@@ -65,10 +65,10 @@ Read this article to understand the project structure and concepts used:
 
 ## Installation Instructions
 ```bash
-# clone the backend project wimm-node-app used for this App
+# clone the backend project wimm-apis used for this App
 git clone https://github.com/fifocode/wimm-apis.git --recursive
 
-# goto the wimm-node-app and run
+# goto the wimm-apis and run
 npm install
 
 # install and start docker containers (https://docs.docker.com/install)
@@ -102,7 +102,7 @@ Example
 - Run the Backend Project to power this App as mentioned below
 
 ## Supporting Backend Project
-The backend that powers this App is also open-sourced. You can find it here: [Modern Backend Development - WhereIsMyMotivation](https://github.com/fifocode/wimm-node-app)
+The backend that powers this App is also open-sourced. You can find it here: [Modern Backend Development - WhereIsMyMotivation](https://github.com/fifocode/wimm-apis)
 
 ## Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
